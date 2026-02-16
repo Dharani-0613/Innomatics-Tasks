@@ -1,2 +1,2 @@
-# Logic-Building-Task1
-Innomatics - Logic Building Task 1
+# Logic-Building-Tasks
+Innomatics - Logic Building Task
